@@ -46,3 +46,9 @@ npm run dev
 📌 Project Status
 
 This project is a frontend food delivery UI built for learning and practice with modern React development.
+
+
+## 📸 Project Preview
+
+![Food Delivery App Screenshot](./screenshot.png)
+
