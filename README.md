@@ -1,16 +1,48 @@
-# React + Vite
+🍔 Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A modern and responsive food delivery web UI built with React.js, Tailwind CSS, Vanilla CSS, JavaScript, and HTML.
 
-Currently, two official plugins are available:
+📸 Project Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🛠️ Technologies Used
 
-## React Compiler
+React.js, Tailwind CSS, Vanilla CSS, JavaScript, HTML, Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Features
 
-## Expanding the ESLint configuration
+Modern and responsive food delivery UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean and user-friendly design
+
+Food categories
+
+Food item cards
+
+Responsive layout
+
+Interactive UI components
+
+🚀 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/Rameez-Raja-1999/Food-Delivery-App.git
+
+
+Navigate to the project directory:
+
+cd Food-Delivery-App
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+📌 Project Status
+
+This project is a frontend food delivery UI built for learning and practice with modern React development.
