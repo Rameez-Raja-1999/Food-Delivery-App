@@ -1,4 +1,4 @@
-##🍔 Food Delivery App
+🍔 Food Delivery App
 
 ## A modern and responsive food delivery web UI built with React.js, Tailwind CSS, Vanilla CSS, JavaScript, and HTML.
 
@@ -6,17 +6,7 @@
 
 🛠️ Technologies Used
 
-React.js
-
-Tailwind CSS
-
-Vanilla CSS
-
-JavaScript
-
-HTML
-
-Vite
+React.js, Tailwind CSS, Vanilla CSS, JavaScript, HTML, Vite
 
 ✨ Features
 
