@@ -51,5 +51,5 @@ This project is a frontend food delivery UI built for learning and practice with
 ## 📸 Project Preview
 
 ![Food Delivery App Screenshot](./assests/Screenshot%202026-09-20%20204530.png)
-![Output](assests/Screenshot%202026-09-20%20204530.png)
+![Output](assests/output1.png)
 
