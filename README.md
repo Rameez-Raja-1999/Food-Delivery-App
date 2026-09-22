@@ -1,3 +1,3 @@
 ## Output
 
-![Food Delivery App Screenshot](src/assets/output1.png)
+![Food Delivery App Screenshot](src/assets/output.png)
